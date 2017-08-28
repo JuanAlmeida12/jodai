@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Riddle Chase</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dump_text">Dump Text</string>
+    <string name="estou_no_local_correto">Estou no Local Correto</string>
+</resources>
